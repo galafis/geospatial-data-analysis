@@ -20,6 +20,22 @@
 
 ## English
 
+## 📊 Architecture Diagram
+
+```mermaid
+graph TB
+    A[Spatial Data] --> B[PostGIS]
+    B --> C[Spatial Queries]
+    C --> D[GeoPandas]
+    D --> E[Visualizations]
+    E --> F[Interactive Maps]
+    
+    style A fill:#e1f5ff
+    style F fill:#c8e6c9
+    style B fill:#fff9c4
+```
+
+
 ## 🎯 Features
 
 - **Spatial Queries**: Spatial Queries (PostGIS)
