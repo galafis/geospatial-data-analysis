@@ -2,13 +2,6 @@
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-blue)
-![PostGIS](https://img.shields.io/badge/PostGIS-blue)
-![GeoPandas](https://img.shields.io/badge/GeoPandas-blue)
-![Folium](https://img.shields.io/badge/Folium-blue)
-![Shapely](https://img.shields.io/badge/Shapely-blue)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Status](https://img.shields.io/badge/status-active-success.svg)
 
 **Geospatial analytics with PostGIS, GeoPandas, and Folium for location-based insights and spatial queries**
 
@@ -546,13 +539,6 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## 📊 Project Statistics
 
-![GitHub stars](https://img.shields.io/github/stars/galafis/geospatial-data-analysis?style=social)
-![GitHub forks](https://img.shields.io/github/forks/galafis/geospatial-data-analysis?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/galafis/geospatial-data-analysis?style=social)
-![GitHub issues](https://img.shields.io/github/issues/galafis/geospatial-data-analysis)
-![GitHub pull requests](https://img.shields.io/github/issues-pr/galafis/geospatial-data-analysis)
-![GitHub last commit](https://img.shields.io/github/last-commit/galafis/geospatial-data-analysis)
-![GitHub code size](https://img.shields.io/github/languages/code-size/galafis/geospatial-data-analysis)
 
 ## 🚀 Roadmap
 
